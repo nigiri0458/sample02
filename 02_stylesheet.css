@@ -211,7 +211,7 @@ header{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding-bottom: 50px;
+    margin-bottom: 50px;
 }
 .items li{
     width: 25%;
